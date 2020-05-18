@@ -1,2 +1,2 @@
 # pyshuffle
-A series of modules for shuffling procedures and statistical tests
+Pythonic shuffling procedures and statistical permutations tests
